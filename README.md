@@ -8,7 +8,7 @@ The dashboard provides a real-time-style overview of weather conditions, upcomin
 
 ## 📊 Dashboard Preview
 
-![Weather & Air Quality Dashboard](./Snapshot Weather_dashboard.PNG)
+![Weather & Air Quality Dashboard](./Snapshot%20Weather_dashboard.PNG)
 
 ---
 
